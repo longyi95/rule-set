@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+          "productandservice.infralinkplus.com",
+          "ianlong.xyz",
+          "api.vc.bilibili.com",
+          "a.w.bilicdn1.com",
+          "i0.hdslb.com.w.kunlunno.com",
+          "thaievisa.go.th",
+          "warm-m1.sched.sma-dk.tdnsv5.com",
+          "visa.vfsglobal.com"
+        ],
+        "ip_cidr": [
+        "161.33.187.154/32",
+        "161.118.201.188/32",
+        "131.186.35.11/32",
+        "161.118.231.159/32",
+        "106.75.60.6/32",
+        "161.118.220.51",
+        "82.38.46.0/24"
+      ]  
+      }
+    ]
+  }

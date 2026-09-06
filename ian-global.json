@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "rules": [
+      {
+        "domain_suffix": [
+          "itunes.apple.com",
+          "www.apple.com",
+          "bing.com"
+        ]
+      }
+    ]
+  }
